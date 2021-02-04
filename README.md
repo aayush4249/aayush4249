@@ -10,7 +10,7 @@
 
 <p>
   
-- 👨‍🎓 I recently finished school in November 2020. I'm actively looking for Software Engineer positions; check out my <a href=https://github.com/aayush4249/aayush4249/blob/main/A-Sheth%20Resume%20-%20Creative.pdf> resume</a>
+- 👨‍🎓 I recently finished school in November 2020. I'm currently working on getting AWS certified and am actively looking for Software Engineering positions; check out my <a href=https://github.com/aayush4249/aayush4249/blob/main/A-Sheth%20Resume%20-%20Creative.pdf> resume</a>
 
 - 💬 Ask me about my internships, my projects, ice hockey, algorithmic trading or anything else!
 
