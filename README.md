@@ -10,7 +10,7 @@
 
 <p>
   
-- 👨‍🎓 I recently finished school in December 2020. I'm currently working on getting AWS certified and am always excited for new opportunities; check out my <a href=https://github.com/aayush4249/aayush4249/blob/main/A-Sheth%20Resume%20-%20Creative.pdf> resume</a>
+- 👨‍🎓 I recently finished school in December 2020. I'm currently working on getting AWS certified and am always excited for new opportunities; check out my <a href=https://github.com/aayush4249/aayush4249/blob/main/Aayush%20Sheth%20Resume%20Updated.pdf> resume</a>
 
 - 💬 Ask me about my experience, my projects, ice hockey, algorithmic trading or anything else!
 
