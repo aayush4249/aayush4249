@@ -1,5 +1,5 @@
 <h1 align="center">Hi, It's Aayush</h1>
-<h3 align="center">CS and Management Grad From <a href=https://wlu.ca target="blank">WLU</a>,Currently Looking for new opportunities, Formerly SWE @ <a href=https://www.scotiabank.com/global/en/global-site.html target="blank">Scotiabank</a> and Intern @ <a href=https://www.cibc.com/en/about-cibc.html target="blank">CIBC</a>, <a href=https://about.rogers.com target="blank">Rogers</a>, <a href=https://www.rbc.com/our-company/index.html target="blank">RBC Direct Investing</a></h3>
+<h3 align="center">CS and Management Grad From <a href=https://wlu.ca target="blank">WLU</a>,Incoming SWE @ <a href=https://www.ibm.com/services target="blank">IBM GBS, Formerly SWE @ <a href=https://www.scotiabank.com/global/en/global-site.html target="blank">Scotiabank</a> and Intern @ <a href=https://www.cibc.com/en/about-cibc.html target="blank">CIBC</a>, <a href=https://about.rogers.com target="blank">Rogers</a>, <a href=https://www.rbc.com/our-company/index.html target="blank">RBC Direct Investing</a></h3>
 
 <p align="center">
 <!--<a href=mailto:aayush_sheth@hotmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="itsaayush" height="20" width="20" /></a>-->
@@ -10,7 +10,7 @@
 
 <p>
   
-- 👨‍🎓 I recently finished school in December 2020. I'm currently working on getting AWS certified and am always excited for new opportunities; check out my <a href=https://github.com/aayush4249/aayush4249/blob/main/Aayush%20Sheth%20Resume%20Updated.pdf> resume</a>
+- 👨‍🎓 I went to school at Wilfrid Laurier University and graduated in December 2020 with a BSc. in Computer Science with a minor in management. I'm currently working on getting AWS certified and am always excited for new opportunities
 
 - 💬 Ask me about my experience, my projects, ice hockey, algorithmic trading or anything else!
 
