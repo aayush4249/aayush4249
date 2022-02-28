@@ -10,7 +10,7 @@
 
 <p>
   
-- 👨‍🎓 I went to school at Wilfrid Laurier University and graduated in December 2020 with a BSc. in Computer Science with a minor in management. I'm currently working on getting AWS certified and am always excited for new opportunities
+- 👨‍🎓 I went to school at Wilfrid Laurier University and graduated in December 2020 with a BSc. in Computer Science with a minor in management.
 
 - 💬 Ask me about my experience, my projects, ice hockey, algorithmic trading or anything else!
 
